@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308249179948",
+    "project_id": "runmatter",
+    "storage_bucket": "runmatter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308249179948:android:1712763c4012587aadde89",
+        "android_client_info": {
+          "package_name": "com.runmatter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308249179948-vdd0js98d0k5e74a1i10gcglao476bde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3j_jQ6UgijqftdpopOd9ZBrwEtrYtwW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308249179948-vdd0js98d0k5e74a1i10gcglao476bde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
